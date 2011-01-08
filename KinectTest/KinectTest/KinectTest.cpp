@@ -208,5 +208,5 @@ void KinectTest(void)
 	//	TODO:: Error check code
 
 	//	Create the DepthGenerator node
-	int foo;
+
 }
